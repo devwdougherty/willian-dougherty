@@ -1,4 +1,9 @@
 # willian-dougherty.github.io
-a personal profesional blog
 
-[GitHub](http://github.com)
+# Willian Dougherty do Nascimento Barbosa
+
+##a profesional blog page.
+
+##**Linkedin**
+
+[Linkedin Profile](https://www.linkedin.com/in/willian-dougherty-n-barbosa-245198b0/)
