@@ -13,8 +13,8 @@ Willian Dougherty do Nascimento Barbosa, 22, Single.
 * # Additional Areas and Skills:
 
 * # Porfolio
-- ### Machine Learning
-- [Housing Prediction Example](https://github.com/devwdougherty/housing-prediction-example)
+### Machine Learning
+[Housing Prediction Example](https://github.com/devwdougherty/housing-prediction-example)
 
 
 
