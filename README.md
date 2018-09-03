@@ -22,6 +22,8 @@ Willian Dougherty do Nascimento Barbosa, 22, Single.
    * [Housing Prediction Example](https://github.com/devwdougherty/housing-prediction-example)
    
   ## Web Development
+  
+  ### Back-end
   * [Rest Service](https://github.com/devwdougherty/gsrestservice)
   
 
