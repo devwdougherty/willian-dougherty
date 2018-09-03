@@ -18,20 +18,21 @@ Willian Dougherty do Nascimento Barbosa, 22, Single.
 # Additional Areas and Skills:
 
 # Porfolio
+
 ## Machine Learning
-   * [Housing Prediction Example](https://github.com/devwdougherty/housing-prediction-example)
+* [Housing Prediction Example](https://github.com/devwdougherty/housing-prediction-example)
    
-  ## Web Development
+## Web Development
   
-  ### Back-end
-  * [Rest Service](https://github.com/devwdougherty/gsrestservice)
-  * [Aw Vendas API](https://github.com/devwdougherty/aw-vendas-api)
+### Back-end
+* [Rest Service](https://github.com/devwdougherty/gsrestservice)
+* [Aw Vendas API](https://github.com/devwdougherty/aw-vendas-api)
   
-  ### Front-end
-  * [Aw Vendas UI](https://github.com/devwdougherty/aw-vendas-ui)
+### Front-end
+* [Aw Vendas UI](https://github.com/devwdougherty/aw-vendas-ui)
   
-  ### Architecture 
-  * [Basic Maven](https://github.com/devwdougherty/mavenfirst)
+### Architecture 
+* [Basic Maven](https://github.com/devwdougherty/mavenfirst)
   
 
 
