@@ -25,6 +25,10 @@ Willian Dougherty do Nascimento Barbosa, 22, Single.
   
   ### Back-end
   * [Rest Service](https://github.com/devwdougherty/gsrestservice)
+  * [Aw Vendas API](https://github.com/devwdougherty/aw-vendas-api)
+  
+  ### Front-end
+  * [Aw Vendas UI](https://github.com/devwdougherty/aw-vendas-ui)
   
 
 
