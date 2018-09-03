@@ -30,6 +30,9 @@ Willian Dougherty do Nascimento Barbosa, 22, Single.
   ### Front-end
   * [Aw Vendas UI](https://github.com/devwdougherty/aw-vendas-ui)
   
+  ### Architecture 
+  * [Basic Maven](https://github.com/devwdougherty/mavenfirst)
+  
 
 
 
