@@ -5,11 +5,13 @@ Willian Dougherty do Nascimento Barbosa, 22, Single.
 [Linkedin Profile](https://www.linkedin.com/in/willian-dougherty-n-barbosa-245198b0/)
 
 # Professional Overview
-  Bachelor of Science in Computer Science from the University of Sorocaba, awarded with an integral scholarship in the PROUNI program. I     started in the computer field becoming a computer technician by CPS (Centro Paula Souza). In addition to a graduate computer scientist,   I'm happy to say I also focus on entrepreneurship and acting as an investor and financial market consultant.
+   Bachelor of Science in Computer Science from the University of Sorocaba (2017), contemplated with integral scholarship in the PROUNI program. I started in the area of ​​technology becoming a computer technician by CPS (Centro Paula Souza) in 2013.
 
-  With the passage of time I tried to acquire new knowledge and experiences, this led me to start studies in the field of financial         investments for generation and accumulation of income. I am currently an investor in the Stock Exchange and also in several fixed income   securities. This is in addition to my constant interest in the search for learning within the entrepreneurship applied to startups and     also the generation of ideas.
+   Even though I have a main career in the area of ​​software development, I like to practice other skills that are dear to any good professional. In 2017, I started a personal project called "Zurich Consulting", where I provide personalized service to people who wish to organize their own and make investments with a focus on financial independence. Such services are based on my own experiences as a financial market investor.
 
-  In addition to the computing and corporate area that I work professionally, I look for new challenges that cover several aspects, be       they technology, economics or innovation for problem-solving.
+   I like challenges and opportunities for innovation with a focus on generating and executing ideas. In 2018, when I saw an opportunity to learn and apply concepts, I started as a strategic consultant for the Ello Contabilidade office located in Sorocaba / SP.
+
+   As a programmer, I'm always on the lookout for continuous learning driven execution on today's technology fronts. I work today in research and innovation projects within the area of ​​Software Development. Some concepts of projects already experienced in my career: Facial Recognition by Algorithm, Natural Language, Circular Economy with intelligent management, data control on component production, Enterprise Resource Planning.
 
 # Education/Training
 
