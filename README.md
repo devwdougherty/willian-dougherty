@@ -18,6 +18,10 @@ Willian Dougherty do Nascimento Barbosa, 22, Single.
 # Experience
 
 # Additional Areas and Skills:
+* Web Development
+* ERP Development and Process
+* Entrepreneurship
+* Financial Investments
 
 # Porfolio
 
