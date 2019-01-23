@@ -11,7 +11,7 @@ Willian Dougherty do Nascimento Barbosa, 22, Single.
 
   I like challenges and opportunities for innovation with a focus on generating and executing ideas. In 2018, when I saw an opportunity to learn and apply concepts, I started as a volunteer strategic consultant for the Ello Contabilidade office located in Sorocaba / SP. I'm also constantly looking for and applying on independent projects and business ideas.
 
-  As a programmer, I'm always on the lookout for continuous learning driven execution on today's technology fronts. At present, I'm working on R&D projects within the area of ​​Software Development. Some concepts of projects already experienced in my career: Facial Recognition by Algorithm, Natural Language, Circular Economy with intelligent management, data control on component production, Enterprise Resource Planning (system development and support).
+  As a programmer, I'm always on the lookout for continuous learning driven execution on today's technology fronts. At present, I'm working on R&D projects and Product/Services development projects within the area of ​​Web/Mobile Software Development. Some concepts of projects already experienced in my career: Facial Recognition by Algorithm, Natural Language, Circular Economy with intelligent management, data control on component production, Enterprise Resource Planning (system development and support).
 
 # Education/Training
 
