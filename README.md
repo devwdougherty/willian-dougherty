@@ -14,8 +14,12 @@ Willian Dougherty do Nascimento Barbosa, 22, Single.
   As a programmer, I'm always on the lookout for continuous learning driven execution on today's technology fronts. At present, I'm working on R&D projects and Product/Services development projects within the area of ​​Web/Mobile Software Development. Some concepts of projects already experienced in my career: Facial Recognition by Algorithm, Natural Language, Circular Economy with intelligent management, data control on component production, Enterprise Resource Planning (system development and support).
 
 # Education/Training
+* Bachelor's degree in Computer Science, UNISO, Sorocaba/SP
 
 # Experience
+* ERP Programmer - 3 Years
+* Web Developer - 1 Year
+* Entrepreneurship Projects - 2 Years
 
 # Additional Areas and Skills:
 * Web Development
@@ -24,6 +28,9 @@ Willian Dougherty do Nascimento Barbosa, 22, Single.
 * Financial Investments
 
 # Porfolio
+
+## My Personal Developer Wiki (building...)
+* [Personal Developer Wiki](https://github.com/devwdougherty/personal-developer-wiki)
 
 ## Machine Learning
 * [Housing Prediction Example](https://github.com/devwdougherty/housing-prediction-example)
