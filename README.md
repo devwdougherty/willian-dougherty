@@ -40,7 +40,7 @@ Willian Dougherty do Nascimento Barbosa, 22, Single.
 ### Web Development
   
 #### Back-end
-* [Rest Service](https://github.com/devwdougherty/gsrestservice)
+* [Rest Service - Java & Spring Boot](https://github.com/devwdougherty/gsrestservice)
 * [Vendas API - Java & Spring Boot](https://github.com/devwdougherty/vendas-basic-java-api)
   
 #### Front-end
