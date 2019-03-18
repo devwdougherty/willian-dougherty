@@ -27,24 +27,24 @@ Willian Dougherty do Nascimento Barbosa, 22, Single.
 * Web Development
 * ERP Development and Process
 * Entrepreneurship
-* Financial Investments
+* Brazilian Financial Investments
 
 ## Porfolio
 
 ### My Personal Developer Wiki (building...)
 * [Personal Developer Wiki](https://github.com/devwdougherty/personal-developer-wiki)
 
-### Machine Learning
+### Basic Machine Learning
 * [Housing Prediction Example](https://github.com/devwdougherty/housing-prediction-example)
    
 ### Web Development
   
 #### Back-end
 * [Rest Service](https://github.com/devwdougherty/gsrestservice)
-* [Aw Vendas API](https://github.com/devwdougherty/aw-vendas-api)
+* [Vendas API - Java & Spring Boot](https://github.com/devwdougherty/vendas-basic-java-api)
   
 #### Front-end
-* [Aw Vendas UI](https://github.com/devwdougherty/aw-vendas-ui)
+* [Aw Vendas UI - Angular](https://github.com/devwdougherty/vendas-basic-angular-ui)
   
 #### Architecture 
 * [Basic Maven](https://github.com/devwdougherty/mavenfirst)
