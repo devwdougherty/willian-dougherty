@@ -72,7 +72,7 @@ I like challenges and opportunities for innovation with a focus on generating an
 * [Web API - Contact Manager](https://github.com/devwdougherty/web-api-agenda-contatos)
 * [SPA - Contact Manager](https://github.com/devwdougherty/front-angular-agenda-contatos)
   
-#### Openstack
+### Openstack
 * [Keystone and Swift Integration](https://github.com/devwdougherty/keystone-integration-swift)
 
 **keywords**: restcharp, openstack api, packstack, centos
