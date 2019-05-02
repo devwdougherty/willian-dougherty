@@ -52,8 +52,8 @@ I like challenges and opportunities for innovation with a focus on generating an
 * [Personal Developer Wiki](https://github.com/devwdougherty/personal-developer-wiki)
 
 ### Python
-#### Basic Machine Learning
 * [Housing Prediction Example](https://github.com/devwdougherty/housing-prediction-example)
+**keywords**: basic machine learning
 * [Building a Blockchain](https://github.com/devwdougherty/building-a-blockchain)
    
 ### Java + Angular (Integration)
@@ -66,6 +66,7 @@ I like challenges and opportunities for innovation with a focus on generating an
   
 #### Openstack
 * [Keystone and Swift Integration](https://github.com/devwdougherty/keystone-integration-swift)
+**keywords**: restcharp, openstack api, packstack, centos
 
   
 
