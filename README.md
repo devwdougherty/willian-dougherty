@@ -25,10 +25,10 @@ At present, I'm working on R&D projects and Product/Services within the area of 
 
 ### My Journey in Entrepreneurship 
 
-**My financial investment advisory **
+**My financial investment advisory**
 In 2017, I started a personal project called Zurique Consultoria, where I provide personalized service to people who wish to organize their own and make investments with a focus on financial independence. Such services are based on my own experiences as a financial market investor. 
 
-**Application of some concepts of strategic management **
+**Application of some concepts of strategic management**
 I like challenges and opportunities for innovation with a focus on generating and executing ideas. In 2018, when I saw an opportunity to learn and apply concepts, I started as a volunteer strategic consultant for the Ello Contabilidade office located in Sorocaba / SP. I'm also constantly looking for and applying on independent projects and business ideas.
 
 ## Education/Training
