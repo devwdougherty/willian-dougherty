@@ -16,12 +16,19 @@ Bachelor of Science in Computer Science from the University of Sorocaba (2017), 
 At present, I'm working on R&D projects and Product/Services within the area of software Web and Mobile Development. Some concepts of projects already experienced in my career: Facial Recognition and Detection, Natural Language, Circular Economy, API and Microservices development, ERP (customization development and support). 
 
 • 5 years of software development experience. 
+
 • Experience in Agile/SCRUM teams. 
+
 • Advanced English. 
+
 • Experience in cloud and microservices architecture projects. 
+
 • Collaborative thinking and improvement-oriented. 
+
 • Knowledge disseminator 
+
 • Technical Presentations and customer contact 
+
 
 ### My Journey in Entrepreneurship 
 
