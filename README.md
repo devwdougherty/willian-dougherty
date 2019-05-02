@@ -53,7 +53,7 @@ I like challenges and opportunities for innovation with a focus on generating an
 * Startup Experience
 * Brazilian Financial Investments
 
-## Bascic Portfolio
+## Basic Portfolio
 
 ### My Personal Developer Wiki (building...)
 * [Personal Developer Wiki](https://github.com/devwdougherty/personal-developer-wiki)
