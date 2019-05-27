@@ -1,13 +1,10 @@
-# Willian Barbosa - Developer Presentation
+# Willian Dougherty N Barbosa - Developer Presentation
 
 ## Contact Information
 Willian Dougherty do Nascimento Barbosa, 23, Sorocaba/SP - Brazil.
 
-### **Linkedin**
-[Linkedin Profile](https://www.linkedin.com/in/willian-dougherty-n-barbosa-245198b0/)
-
-### **Email**
-[willdough@live.com](mailto:willdough@live.com)
+**Linkedin:** [Profile](https://www.linkedin.com/in/willian-dougherty-n-barbosa-245198b0/)
+**Email:** [willdough@live.com](mailto:willdough@live.com)
 
 ## Professional Overview
 ### Starting 
