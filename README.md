@@ -1,10 +1,13 @@
 # Willian Barbosa - Developer Presentation
 
 ## Contact Information
-Willian Dougherty do Nascimento Barbosa, 22, Single.
+Willian Dougherty do Nascimento Barbosa, 23, Sorocaba/SP - Brazil.
 
 ### **Linkedin**
 [Linkedin Profile](https://www.linkedin.com/in/willian-dougherty-n-barbosa-245198b0/)
+
+### **Email**
+[willdough@live.com](mailto:willdough@live.com)
 
 ## Professional Overview
 ### Starting 
@@ -53,7 +56,7 @@ I like challenges and opportunities for innovation with a focus on generating an
 * Startup Experience
 * Brazilian Financial Investments
 
-## Basic Portfolio
+## Portfolio
 
 ### My Personal Developer Wiki (building...)
 * [Personal Developer Wiki](https://github.com/devwdougherty/personal-developer-wiki)
@@ -61,16 +64,20 @@ I like challenges and opportunities for innovation with a focus on generating an
 ### Python
 * [Housing Prediction Example](https://github.com/devwdougherty/housing-prediction-example)
 
-**keywords**: basic machine learning
+**keywords**: basic machine learning, prediction model
 * [Building a Blockchain](https://github.com/devwdougherty/building-a-blockchain)
    
 ### Java + Angular (Integration)
 * [Basic Spring Boot API - Sales Manager](https://github.com/devwdougherty/vendas-basic-java-api)
 * [SPA - Sales Manager](https://github.com/devwdougherty/vendas-basic-angular-ui)
 
+**keywords**: rest, web api, spa, spring boot
+
 ### .NET Core Api + Angular (Integration)
 * [Web API - Contact Manager](https://github.com/devwdougherty/web-api-agenda-contatos)
 * [SPA - Contact Manager](https://github.com/devwdougherty/front-angular-agenda-contatos)
+
+**keywords**: rest, web api, spa, entity framework, asp.net
   
 ### Openstack
 * [Keystone and Swift Integration](https://github.com/devwdougherty/keystone-integration-swift)
