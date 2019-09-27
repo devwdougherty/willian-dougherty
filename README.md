@@ -29,6 +29,49 @@ At present, I'm working on R&D projects and Product/Services within the area of 
 
 • Technical & Business Presentations and contact with the client 
 
+### Experience
+* ERP Programmer - 3 years
+* Web Developer - 1,5 years
+* Entrepreneurship Projects - 2 years
+
+### Aditional Areas and Skills:
+* Web Development
+* ERP Development and Business Rules & Process
+* Entrepreneurship & Startup Experience
+* Brazilian Financial Market Investments
+
+### Portfolio
+
+#### My Personal Developer Wiki (always improving...)
+* [Personal Developer Wiki](https://github.com/devwdougherty/personal-developer-wiki)
+
+#### Python
+* [Housing Prediction Example](https://github.com/devwdougherty/housing-prediction-example)
+
+**keywords**: basic machine learning, prediction model
+* [Building a Blockchain](https://github.com/devwdougherty/building-a-blockchain)
+   
+#### Java + Angular (Integration)
+* [Basic Spring Boot API - Sales Manager](https://github.com/devwdougherty/vendas-basic-java-api)
+* [SPA - Sales Manager](https://github.com/devwdougherty/vendas-basic-angular-ui)
+
+**keywords**: rest, web api, spa, spring boot
+
+#### Java Spring Boot Microservices
+* [Spring Boot Microservices Workshop](https://github.com/devwdougherty/spring-boot-microservices-workshop)
+
+**keywords**: microservices, restemplate, webclient, eureka, service discovery, load balance, h2database
+
+#### .NET Core Api + Angular (Integration)
+* [Web API - Contact Manager](https://github.com/devwdougherty/web-api-agenda-contatos)
+* [SPA - Contact Manager](https://github.com/devwdougherty/front-angular-agenda-contatos)
+
+**keywords**: rest, web api, spa, entity framework, asp.net
+  
+#### Openstack
+* [Keystone and Swift Integration](https://github.com/devwdougherty/keystone-integration-swift)
+
+**keywords**: restcharp, openstack api, packstack, centos
 
 ### My Journey in Entrepreneurship 
 
@@ -41,49 +84,7 @@ I like challenges and opportunities for innovation with a focus on generating an
 ## Education/Training
 * Bachelor's degree in Computer Science, UNISO, Sorocaba/SP
 
-## Experience
-* ERP Programmer - 3 years
-* Web Developer - 1,5 years
-* Entrepreneurship Projects - 2 years
 
-## Additional Areas and Skills:
-* Web Development
-* ERP Development and Business Rules & Process
-* Entrepreneurship & Startup Experience
-* Brazilian Financial Market Investments
-
-## Portfolio
-
-### My Personal Developer Wiki (always improving...)
-* [Personal Developer Wiki](https://github.com/devwdougherty/personal-developer-wiki)
-
-### Python
-* [Housing Prediction Example](https://github.com/devwdougherty/housing-prediction-example)
-
-**keywords**: basic machine learning, prediction model
-* [Building a Blockchain](https://github.com/devwdougherty/building-a-blockchain)
-   
-### Java + Angular (Integration)
-* [Basic Spring Boot API - Sales Manager](https://github.com/devwdougherty/vendas-basic-java-api)
-* [SPA - Sales Manager](https://github.com/devwdougherty/vendas-basic-angular-ui)
-
-**keywords**: rest, web api, spa, spring boot
-
-### Java Spring Boot Microservices
-* [Spring Boot Microservices Workshop](https://github.com/devwdougherty/spring-boot-microservices-workshop)
-
-**keywords**: microservices, restemplate, webclient, eureka, service discovery, load balance, h2database
-
-### .NET Core Api + Angular (Integration)
-* [Web API - Contact Manager](https://github.com/devwdougherty/web-api-agenda-contatos)
-* [SPA - Contact Manager](https://github.com/devwdougherty/front-angular-agenda-contatos)
-
-**keywords**: rest, web api, spa, entity framework, asp.net
-  
-### Openstack
-* [Keystone and Swift Integration](https://github.com/devwdougherty/keystone-integration-swift)
-
-**keywords**: restcharp, openstack api, packstack, centos
 
   
 
