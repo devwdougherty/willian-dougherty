@@ -30,7 +30,7 @@ At present, I'm working on R&D projects and Product/Services within the area of 
 • Technical & Business Presentations and contact with the client 
 
 ### Experience
-* ERP Programmer - 3 years
+* ERP Developer - 3 years
 * Web Developer - 1,5 years
 * Entrepreneurship Projects - 2 years
 
