@@ -9,34 +9,34 @@ Willian Dougherty do Nascimento Barbosa, 23, Sorocaba/SP - Brazil.
 ## Professional Overview
 ### Starting 
 
-Bachelor of Science in Computer Science from the University of Sorocaba (2017), contemplated with integral scholarship in the PROUNI program. I started in the area of ​​technology becoming a computer technician by CPS (Centro Paula Souza) in 2013. 
+I have a degree in Computer Science from the University of Sorocaba (2014-2017), contemplated with a full scholarship in the PROUNI program. I started in the area of ​​technology becoming a computer technician by CPS (Centro Paula Souza) in 2013.
 
 ### My Journey in IT
 
-At present, I'm working on R&D projects and Product/Services within the area of software Web and Mobile Development. Some concepts of projects already experienced in my career: Facial Recognition and Detection, Natural Language, Circular Economy, API and Microservices development, ERP (customization development and support). 
+I work today in product/service R&D projects in the software development area. Some project concepts already experienced in my career: Face Detection and Recognition, Natural Language, Circular Economics, Development of APIs and Microservices, ERP (Customization and Support Development).
 
 • 4 years of software development experience. 
 
-• Experience in Agile/SCRUM teams. 
+• Experience in Agile/SCRUM teams and practice as Scrum Master.
 
-• Advanced English and Intermdiary Spanish. 
+• Advanced English and Intermediary Spanish. 
 
-• Experience in cloud and microservices architecture projects. 
+• Project experience in cloud, microservices, and APIs.
 
 • Collaborative thinking and improvement-oriented. 
 
-• Knowledge disseminator 
+• Knowledge disseminator.
 
-• Technical & Business Presentations and contact with the client 
+• Technical & Business Presentations and customer contact
 
 ### Experience
 * ERP Developer - 3 years
-* Web Developer - 1,5 years
-* Entrepreneurship Projects - 2 years
+* Web Developer - 2 years
+* Entrepreneurship Projects - 3 years
 
 ### Aditional Areas and Skills:
-* Web Development
-* ERP Development and Business Rules & Process
+* Web Development (70% backend 30% frontend)
+* ERP Development  (Business Rules & Process)
 * Entrepreneurship & Startup Experience
 * Brazilian Financial Market Investments
 
@@ -76,10 +76,10 @@ At present, I'm working on R&D projects and Product/Services within the area of 
 ### My Journey in Entrepreneurship 
 
 **My financial investment advisory**
-In 2017, I started a personal project called Zurique Consultoria, where I provide personalized service to people who wish to organize their own and make investments with a focus on financial independence. Such services are based on my own experiences as a financial market investor. 
+In 2017, I started a personal project called Zurique Consultoria, where I provide personalized service to people who wish to invest their estate with a focus on the medium and long-term. Such consulting have as its basis my own experiences as an investor on the financial market.
 
-**Application of some concepts of strategic management**
-I like challenges and opportunities for innovation with a focus on generating and executing ideas. In 2018, when I saw an opportunity to learn and apply concepts, I started as a volunteer strategic consultant for the Ello Contabilidade office located in Sorocaba / SP. I'm also constantly looking for and applying on independent projects and business ideas.
+**Business and Innovation Opportunities**
+In addition to the technical area, I also have an interest in business and innovation. During a quarter of 2018, I assisted a small accounting office in central Sorocaba in its internal structuring of operations. In the startup area, with a team of 5 members in the first half of 2019, I participated in an acceleration cycle by Sebrae in the StartupSP program.
 
 ## Education/Training
 * Bachelor's degree in Computer Science, UNISO, Sorocaba/SP
