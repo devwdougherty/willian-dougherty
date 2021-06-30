@@ -13,7 +13,7 @@ I have a degree in Computer Science from the University of Sorocaba (2014-2017),
 
 ## Summary and Career Objective 
 
-Professional with 5 years of experience in software development working as a Java/C# back-end developer in national and international projects. Focused on improving and updating my backend skills in Java Spring Framework, REST APIs, microservices, and design patterns applying my technical and soft skills in the projects to create value for the client. My last projects were international profile (English): Mobile (Cisco) and Banking Platforms (Deutsche Bank). 
+Professional with 6 years of experience in software development working as a Java/C# back-end developer in national and international projects. Focused on improving and updating my backend skills in Java Spring Framework, REST APIs, microservices, and design patterns applying my technical and soft skills in the projects to create value for the client. My last projects were international profile (English): Mobile (Cisco) and Banking Platforms (Deutsche Bank). 
 
 ### My IT Journey
 
