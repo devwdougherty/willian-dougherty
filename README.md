@@ -1,21 +1,23 @@
-# Willian Dougherty N Barbosa - Professional Presentation
+# Willian Dougherty N Barbosa - Resume
 
 ## Contact Information
-Willian Dougherty do Nascimento Barbosa, 24, Sorocaba/SP - Brazil.
+Willian Dougherty do Nascimento Barbosa, 25, Sorocaba/SP - Brazil.
 
-**Linkedin:** [Profile](https://www.linkedin.com/in/willian-dougherty-n-barbosa-245198b0/)
+**Linkedin:** [Profile](https://www.linkedin.com/in/willian-dougherty-n-barbosa/)
 **Email:** [willdough@live.com](mailto:willdough@live.com)
 
 ## Professional Overview
 ### Starting 
 
-I have a degree in Computer Science from the University of Sorocaba (2014-2017), contemplated with a full scholarship in the PROUNI program. I started in the area of ​​technology becoming a computer technician by CPS (Centro Paula Souza) in 2013.
+I have a degree in Computer Science from the University of Sorocaba (2014-2017), contemplated with a full scholarship in the PROUNI (Universidade para Todos) program. I started in the area of technology becoming a computer technician by CPS (Centro Paula Souza) in 2013 with focus on programming.
 
-### My Journey in IT
+## Summary and Career Objective 
 
-I work today in product/service R&D projects in the software development area. Some project concepts already experienced in my career: Face Detection and Recognition, Natural Language, Circular Economics, Development of APIs and Microservices, ERP (Customization and Support Development).
+Professional with 5 years of experience in software development working as a Java/C# back-end developer in national and international projects. Focused on improving and updating my backend skills in Java Spring Framework, REST APIs, microservices, and design patterns applying my technical and soft skills in the projects to create value for the client. My last projects were international profile (English): Mobile (Cisco) and Banking Platforms (Deutsche Bank). 
 
-• 4 years of software development experience. 
+### My IT Journey
+
+• 6 years of software development experience. 
 
 • Experience in Agile/SCRUM teams and practice as Scrum Master.
 
@@ -25,28 +27,25 @@ I work today in product/service R&D projects in the software development area. S
 
 • Collaborative thinking and improvement-oriented. 
 
-• Knowledge disseminator.
+• Knowledge disseminator and intrapreneurship.
 
-• Technical & Business Presentations and customer contact
+• Technical & Business Presentations and customer contact.
 
 ### Experience
 * ERP Developer - 3 years
-* Web Developer - 2 years
-* Entrepreneurship Projects - 3 years
+* Web Backend Developer - 3 years
+* Entrepreneurship Projects - 4 years
 
 ### Aditional Areas and Skills:
-* Web Development (70% backend 30% frontend)
-* ERP Development  (Business Rules & Process)
-* Entrepreneurship & Startup Experience
-* Brazilian Financial Market Investments
+* Web Development (Backend: Programming, Testing and Deploy)
+* ERP Development  (Business Rules & Process with programming)
+* Entrepreneurship & Startup Experience (leadership)
+* Brazilian and US Financial Market Investments
 
 ### Portfolio
 
 #### My Personal Developer Wiki (always improving...)
 * [Personal Developer Wiki](https://github.com/devwdougherty/personal-developer-wiki)
-
-#### Python
-* [Housing Prediction Example](https://github.com/devwdougherty/housing-prediction-example)
 
 **keywords**: basic machine learning, prediction model
 * [Building a Blockchain](https://github.com/devwdougherty/building-a-blockchain)
