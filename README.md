@@ -1,10 +1,11 @@
 # Willian Dougherty N Barbosa - Resume
 
 ## Contact Information
-Willian Dougherty do Nascimento Barbosa, 25, Sorocaba/SP - Brazil.
+Willian Dougherty do Nascimento Barbosa, 28 years, Votorantim/SP - Brazil.
 
 **Linkedin:** [Profile](https://www.linkedin.com/in/willian-dougherty-n-barbosa/)
 **Email:** [willdough@live.com](mailto:willdough@live.com)
+**Mobile Number:** +55 (15) 997510298
 
 ## Professional Overview
 ### Starting 
@@ -17,7 +18,7 @@ Professional with 6 years of experience in software development working as a Jav
 
 ### My IT Journey
 
-• 6 years of software development experience. 
+• 9 years of software development experience. 
 
 • Experience in Agile/SCRUM teams and practice as Scrum Master.
 
@@ -33,13 +34,12 @@ Professional with 6 years of experience in software development working as a Jav
 
 ### Experience
 * ERP Developer - 3 years
-* Web Backend Developer - 3 years
-* Entrepreneurship Projects - 4 years
+* Backend Developer - 6 years
 
 ### Aditional Areas and Skills:
-* Web Development (Backend: Programming, Testing and Deploy)
+* Web Development (Backend: Architecture Design, Programming, Testing and Deploy)
 * ERP Development  (Business Rules & Process with programming)
-* Entrepreneurship & Startup Experience (leadership)
+* Entrepreneurship & Startup Experience (leadership and operational)
 * Brazilian and US Financial Market Investments
 
 ### Portfolio
@@ -72,16 +72,9 @@ Professional with 6 years of experience in software development working as a Jav
 
 **keywords**: restcharp, openstack api, packstack, centos
 
-### My Journey in Entrepreneurship 
-
-**My financial investment advisory**
-In 2017, I started a personal project called Zurique Consultoria, where I provide personalized service to people who wish to invest their estate with a focus on the medium and long-term. Such consulting have as its basis my own experiences as an investor on the financial market.
-
-**Business and Innovation Opportunities**
-In addition to the technical area, I also have an interest in business and innovation. During a quarter of 2018, I assisted a small accounting office in central Sorocaba in its internal structuring of operations. In the startup area, with a team of 5 members in the first half of 2019, I participated in an acceleration cycle by Sebrae in the StartupSP program.
-
 ## Education/Training
 * Bachelor's degree in Computer Science, UNISO, Sorocaba/SP
+* ETL with Cloud AWS Bootcamp *
 
 
 
