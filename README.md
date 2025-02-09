@@ -3,9 +3,9 @@
 ## Contact Information
 Willian Dougherty do Nascimento Barbosa, 28 years, Votorantim/SP - Brazil.
 
-**Linkedin:** [Profile](https://www.linkedin.com/in/willian-dougherty-n-barbosa/)
-**Email:** [willdough@live.com](mailto:willdough@live.com)
-**Mobile Number:** +55 (15) 997510298
+- **Linkedin:** [Profile](https://www.linkedin.com/in/willian-dougherty-n-barbosa/)
+- **Email:** [willdough@live.com](mailto:willdough@live.com)
+- **Mobile Number:** +55 (15) 997510298
 
 ## Professional Overview
 ### Starting 
@@ -74,7 +74,7 @@ Professional with 9 years of experience in software development working as a Jav
 
 ## Education/Training
 * Bachelor's degree in Computer Science, UNISO, Sorocaba/SP
-* ETL with Cloud AWS Bootcamp *
+* ETL with Cloud AWS Bootcamp
 
 
 
