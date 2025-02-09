@@ -10,13 +10,13 @@ Willian Dougherty do Nascimento Barbosa, 28 years, Votorantim/SP - Brazil.
 ## Professional Overview
 ### Starting 
 
-I have a degree in Computer Science from the University of Sorocaba (2014-2017), contemplated with a full scholarship in the PROUNI (Universidade para Todos) program. I started in the area of technology becoming a computer technician by CPS (Centro Paula Souza) in 2013 with focus on programming.
+I have a degree in Computer Science from the University of Sorocaba (2014-2017) obtaining an integral scholarship in the PROUNI (Government program for best students in national exam). I started in the area of technology becoming a computer technician by CPS (Centro Paula Souza) in 2013 with a focus on Desktop Programming with C# Language.
 
 ## Summary and Career Objective 
 
-Professional with 6 years of experience in software development working as a Java/C# back-end developer in national and international projects. Focused on improving and updating my backend skills in Java Spring Framework, REST APIs, microservices, and design patterns applying my technical and soft skills in the projects to create value for the client. My last projects were international profile (English): Mobile (Cisco) and Banking Platforms (Deutsche Bank). 
+Professional with 9 years of experience in software development working as a Java/C# back-end developer in national and international projects. Focused on improving my backend skills in Java Spring Framework, REST APIs, microservices, and design patterns applying my technical and soft skills in the projects to create value for the client. Experienced in international projects with global clients like Cisco, Deutsche Bank, Backcountry, AllState. 
 
-### My IT Journey
+### My Software Engineer Journey
 
 • 9 years of software development experience. 
 
